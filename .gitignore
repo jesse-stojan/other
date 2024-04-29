@@ -79,3 +79,9 @@ DerivedDataCache/*
 *.ipt
 # 3dsMax Ignore Files/Directories
 *.max
+
+# Mac OS
+.DS_Store
+
+# Linux
+.~*

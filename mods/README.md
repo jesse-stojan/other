@@ -6,8 +6,6 @@
 <!-- Table of Contents -->
 ## Table of Contents
 
-1. [Milo Mods](milo/README.md) - Created for the [Millenium Machines -  Milo project](https://github.com/MillenniumMachines/Milo-v1.5) that's based off the [Open Builds](https://github.com/OpenBuilds) CNC Vertical Mill.
-
 <!-- footer -->
 [<h3>&#8682;</h3>](#)
 
